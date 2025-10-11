@@ -1,6 +1,6 @@
 {
-  "project_id": "your project id",
-  "data_bucket": "your data bucket",
+  "project_id": "de-project-473210",
+  "data_bucket": "data_de2025_388",
   "trainset_filename": "training_set.csv",
-  "model_repo": "your project model repo"
+  "model_repo": "models_de2025_388"
 }
